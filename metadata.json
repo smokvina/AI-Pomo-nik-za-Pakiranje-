@@ -1,0 +1,5 @@
+{
+  "name": "AI Pomoćnik za Pakiranje",
+  "description": "Inteligentni pomoćnik za planiranje pakiranja koji koristi Gemini AI za generiranje personaliziranih popisa za pakiranje na temelju detalja putovanja, vremenske prognoze, planiranih aktivnosti i analize priloženih slika odjeće i itinerara.",
+  "requestFramePermissions": []
+}
